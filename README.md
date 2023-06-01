@@ -1,4 +1,4 @@
-# UI-Collection
+# UI-Collection ![maintenance-status](https://img.shields.io/badge/maintenance-deprecated-red.svg)
 A collection of user interface build as part of work that didn't make it to production.
 
 ## Text-Opacity-on-Scroll
